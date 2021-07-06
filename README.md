@@ -62,4 +62,4 @@ License
 
 AGPLv3, see [LICENSE](LICENSE)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ndiap04/Youtube-Downloader-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ndiap04/telegram-conversational-games-bot
